@@ -1,4 +1,4 @@
 # potfolioweb
 fully responsive web
-using mediaqyery
+using mediaquery
 visit https://fnk-bot.github.io/potfolioweb/
